@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="260"
-   height="118.78786"
-   viewBox="0 0 243.75 111.36362"
+   width="347.7966"
+   height="168.28966"
+   viewBox="0 0 256.49999 124.11362"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo_white.svg"
-   inkscape:export-filename="/home/yann/Cloud/Projets/MetWork/Stage/Com/Logo/landing/intro-bg.jpg.png"
+   inkscape:export-filename="/home/yann/Dev/MetWork/metwork-landing/img/intro-bg.png"
    inkscape:export-xdpi="339"
    inkscape:export-ydpi="339">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86678118"
-     inkscape:cx="-83.582458"
-     inkscape:cy="-235.45698"
+     inkscape:cx="-74.938382"
+     inkscape:cy="-194.59925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,16 +41,18 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5"
-     units="px">
+     fit-margin-top="15"
+     fit-margin-left="15"
+     fit-margin-right="15"
+     fit-margin-bottom="15"
+     units="px"
+     scale-x="0.7375"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
-       originx="-674.49767"
-       originy="-775.03661" />
+       originx="-524.22981"
+       originy="-579.56288" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -68,12 +70,12 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Logo 1"
-     transform="translate(-415.75946,-65.494536)" />
+     transform="translate(-409.38446,-59.119544)" />
   <g
      inkscape:label="Logo"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-674.49762,-165.96197)"
+     transform="translate(-668.12262,-159.58697)"
      style="display:inline">
     <g
        id="g4531"
@@ -106,13 +108,13 @@
      id="layer6"
      inkscape:label="MetWork"
      style="display:inline"
-     transform="translate(-674.49762,142.30575)" />
+     transform="translate(-668.12262,148.68075)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Cadre"
      style="display:none"
-     transform="translate(-674.49762,142.30575)">
+     transform="translate(-668.12262,148.68075)">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#858c95;stroke-width:15.7958746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99215686"
        d="m 405.14352,8.00143 -244.0528,244.05281 v 244.05265 l 244.0528,244.05279 H 649.19617 L 893.24898,496.10689 V 252.05424 L 649.19617,8.00143 Z"
