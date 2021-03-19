@@ -164,3 +164,8 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.fa-gitter {
+    height: 20px;
+    content: url("/img/gitter-brands.svg");
+  }
